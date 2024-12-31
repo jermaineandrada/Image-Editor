@@ -6,8 +6,8 @@ This is a Python-based image editor that allows users to interactively select a 
 
 ## Features
 - **Load an Image:** Import an image of appropriate size (within the defined limits).
-- **Select a Square:** Click and drag to select a square area on the image.
-- **Apply Effects:** Convert the selected area to either grayscale or negative.
+- **Select a Square:** Automatically creates a rectangle when the user clicks two points on the image.
+- **Apply Effects:** Convert the selected area to either grayscale or negative by clicking on the necessary buttons.
 - **Save Edited Image:** Save the edited image to a location of your choice.
 
 ## Requirements
